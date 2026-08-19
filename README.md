@@ -60,4 +60,4 @@ Test suite covers auth scoping, the rules engine, brand stream isolation, taggin
 
 ---
 
-**[← More case studies](https://valeriasanzjones.vercel.app)**
+**[← More of my work](https://github.com/valeriasanzx)**
