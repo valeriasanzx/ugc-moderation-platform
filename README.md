@@ -21,7 +21,7 @@ The core idea: **a brand's guidelines should be structured data that drives the 
 AI assists at each of the three stages rather than replacing the stage.
 
 ```
-Olapic ──sync──► Postgres snapshot ──► Blocklist ──► PREMOD ──► TAGGING ──► QA ──► complete
+Upstream ─sync─► Postgres snapshot ──► Blocklist ──► PREMOD ──► TAGGING ──► QA ──► complete
                  (moderation state              (auto-      (Claude:    (vision:   (human:
                   independent of                 reject)     approve/    top-3      approve /
                   upstream changes)                          reject/     product    reject /
